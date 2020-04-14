@@ -17,4 +17,6 @@ https://drive.google.com/file/d/163WOUnSyvgwk_4KsGCMCWnK9MBq7EBN0/view?usp=shari
  
 https://drive.google.com/file/d/1_cT-FjaDVzXg99zod1bctcmfYAIl2pr6/view?usp=sharing
 
+Scripting - testaddon - Заменить путь до .дат файла на свой (143 строка), опционально раскомментить 134 строку, чтобы показывать изображение с камеры в отдельном окне
+
 
