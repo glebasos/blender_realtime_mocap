@@ -20,7 +20,9 @@ https://drive.google.com/file/d/1_cT-FjaDVzXg99zod1bctcmfYAIl2pr6/view?usp=shari
 Scripting - testaddon - Заменить путь до .дат файла на свой (143 строка), опционально раскомментить 134 строку, чтобы показывать изображение с камеры в отдельном окне
 
 Scripts - localcords file - run script
+
 In Pose Mode - N menu - choose Mocap - Start
+
 Then play animation in Animation tab and it'l start capture
 
 
